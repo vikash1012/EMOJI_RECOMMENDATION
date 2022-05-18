@@ -1,0 +1,12 @@
+empty
+sadness 
+enthusiam
+neutral
+worry 
+suprise
+love
+fun
+happiness
+hate
+relief
+boredom
